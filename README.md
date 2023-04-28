@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/aab2521" target="blank"><img src="https://img.shields.io/twitter/follow/aab2521?logo=twitter&style=for-the-badge" alt="aab2521" /></a> </p>
 
-- 🔭 I’m currently working on **Twitter Clone using Next.JS and socket.io**
 
 - 🌱 I’m currently learning **MERN stack development**
 
