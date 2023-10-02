@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aabhash Arun Burman</h1>
-https://www.holopin.io/@aab2521
 <h3 align="center">A passionate frontend developer from India, who writes in React.JS and passionate about Java.</h3>
 <img align=”right” alt=”coding” width=”400” src =https://i.gifer.com/3Eqa.gif>
 
@@ -9,6 +8,8 @@ https://www.holopin.io/@aab2521
 
 
 - 🌱 I’m currently learning **MERN stack development**
+
+[![@aab2521's Holopin board](https://holopin.me/aab2521)](https://holopin.io/@aab2521)
 
 - 📫 How to reach me **aabhasharunb2521@gmail.com**
 
