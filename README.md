@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aabhash Arun Burman</h1>
-[![An image of @aab2521's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aab2521)](https://holopin.io/@aab2521)
+https://www.holopin.io/@aab2521?verified=true#
 <h3 align="center">A passionate frontend developer from India, who writes in React.JS and passionate about Java.</h3>
 <img align=”right” alt=”coding” width=”400” src =https://i.gifer.com/3Eqa.gif>
 
